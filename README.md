@@ -1,10 +1,20 @@
 # GitHub Codespaces ♥️ Django
 
-Welcome to your shiny new Codespace running Django! We've got everything fired up and running for you to explore Django.
+This project was developed for learning Python3.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with the what you're seeing right now - where you go from here is up to you!
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Codespaces-Django**
+| :label: Tecnologias | python3, html, css
+| :rocket: URL         | https://url-deploy.com.br
+| :fire: Desafio     | https://url-do-desafio.com.br
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+
+## Project details
+
+Everything here is contained within the codespace.
 
 To run this application:
 
