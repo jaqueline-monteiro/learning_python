@@ -11,7 +11,7 @@ This project was developed for learning Python3.
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
-![](https://imgbox.com/9BHvYGEd )
+![](https://imgbox.com/9BHvYGEd)
 
 ## Project details
 
