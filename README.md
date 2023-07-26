@@ -1,4 +1,4 @@
-# GitHub Codespaces ♥️ Django
+# GitHub Codespaces ♥️
 
 This project was developed for learning Python3.
 
