@@ -4,7 +4,7 @@ This project was developed for learning Python3.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Codespaces-Django**
+| :sparkles: Nome        | **learning-python**
 | :label: Tecnologias | python3, html, css
 <!--| :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
