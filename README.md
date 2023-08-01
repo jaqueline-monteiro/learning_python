@@ -5,7 +5,7 @@ This project was developed for learning Python3.
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **learning-python**
-| :label: Tecnologias | python3, html, css
+| :label: Tecnologias | python3
 <!--| :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
