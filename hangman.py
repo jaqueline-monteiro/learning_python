@@ -4,24 +4,27 @@ def play():
     print("*********************************")
 
     secret_word = "banana"
+    guessed_letters = ["_", "_", "_", "_", "_", "_"]
 
     hanged = False
     guessed = False
 
-    while not hanged and not guessed:
-        print("*********************************")
-        guess = input("Guess a letter: ")
+    print(guessed_letters)
+
+    while(not hanged and not guessed):
+
+        guess = input("Which letter? ")
         guess = guess.strip()
-        print("*********************************")
-        print("Playing...")
 
         index = 0
         for letter in secret_word:
-            if guess.upper() == letter.upper():
-                print("*********************************")
-                print("Found the letter {} at position {}".format(letter, index))
-            index += 1
+            if(guess.upper() == letter.upper()):
+                guessed_letters[index] = letter
+            index = index + 1
+
+        print(guessed_letters)
+
     print("End of the game")
 
-if __name__ == "__main__":
+if(__name__ == "__main__"):
     play()
