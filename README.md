@@ -1,6 +1,7 @@
 # GitHub Codespaces ♥️
 
-This project was developed for learning Python3.
+A simple game project to know and practice Python 3.
+
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
